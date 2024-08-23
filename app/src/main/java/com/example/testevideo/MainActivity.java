@@ -33,5 +33,6 @@ public class MainActivity extends AppCompatActivity {
         ));
 
         videoView.start();//deu bom? sim sim sim
+        //FOOI??
     }
 }
