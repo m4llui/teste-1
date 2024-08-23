@@ -32,6 +32,6 @@ public class MainActivity extends AppCompatActivity {
                 RelativeLayout.LayoutParams.MATCH_PARENT
         ));
 
-        videoView.start();//OLA DEU BOM?
+        videoView.start();//deu bom? ss
     }
 }
